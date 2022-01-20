@@ -3,4 +3,4 @@ defaultPackage: com.illusionist
 testFramework: junit
 sourceLanguage: java
 buildTool: gradle
-features: [ annotation-api, app-name, data, data-jpa, gradle, h2, http-client, java, java-application, jdbc-hikari, junit, logback, micronaut-build, netty-server, readme, security-annotations, security-jwt, shade, yaml ]
+features: [annotation-api, app-name, data, data-jpa, gradle, h2, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, micronaut-build, netty-server, readme, rxjava2, rxjava2-http-client, rxjava2-http-server-netty, security-annotations, security-jwt, shade, yaml]
